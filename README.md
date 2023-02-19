@@ -1,4 +1,4 @@
-# shared_enum_between_rust_and_swift
+# shared_enum_with_associated_data_between_rust_and_swift
 This is an example of how to share enum with associated data between rust and swift.
 
 ## Build
